@@ -10,4 +10,4 @@ Meu nome é Nayara Vaz
 
 ✩ Utilizo esse espaço para organização e compartilhamento dos meus projetos
 
-![image](https://github.com/user-attachments/assets/93c4eadf-c275-467f-8afd-5feb8548d259)
+![](https://github.com/user-attachments/assets/93c4eadf-c275-467f-8afd-5feb8548d259)
